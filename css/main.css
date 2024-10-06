@@ -228,7 +228,7 @@ section.home .container {
   align-items: center;
 }
 
-section.home > p {
+section.home>p {
   position: absolute;
   left: 6.5%;
   top: 13.5%;
@@ -382,7 +382,7 @@ section.about .container {
   align-items: center;
 }
 
-section.about > div {
+section.about>div {
   height: 630px;
 }
 
@@ -448,11 +448,11 @@ section.about .notice .img {
   }
 }
 
-section.about .notice .img > img {
+section.about .notice .img>img {
   transition: 0.5s;
 }
 
-section.about .notice .img:hover > img {
+section.about .notice .img:hover>img {
   transform: scale(1.1);
 }
 
@@ -624,35 +624,32 @@ section.about .skills ul li .bar .gauge {
   transition: 2s;
 }
 
-section.about .skills ul li p {
-}
-
 section.about.on .skills ul li:nth-child(1) .bar .gauge {
-  width: 80%;
+  width: 90%;
 }
 
 section.about.on .skills ul li:nth-child(2) .bar .gauge {
-  width: 80%;
+  width: 90%;
 }
 
 section.about.on .skills ul li:nth-child(3) .bar .gauge {
-  width: 70%;
-}
-
-section.about.on .skills ul li:nth-child(4) .bar .gauge {
-  width: 70%;
-}
-
-section.about.on .skills ul li:nth-child(5) .bar .gauge {
   width: 85%;
 }
 
+section.about.on .skills ul li:nth-child(4) .bar .gauge {
+  width: 85%;
+}
+
+section.about.on .skills ul li:nth-child(5) .bar .gauge {
+  width: 90%;
+}
+
 section.about.on .skills ul li:nth-child(6) .bar .gauge {
-  width: 75%;
+  width: 80%;
 }
 
 section.about.on .skills ul li:nth-child(7) .bar .gauge {
-  width: 75%;
+  width: 80%;
 }
 
 /* contents */
