@@ -102,15 +102,15 @@ main {
 .main_visual .swiper-wrapper .swiper-slide {
   width: 100%;
   height: calc(100vh - 100px);
-  background: url(../img/banner.jpg);
+  background: url(../img/banner.jpg) no-repeat;
 }
 
 .main_visual .swiper-wrapper .swiper-slide:nth-child(2) {
-  background: url(../img/banner2.jpg);
+  background: url(../img/banner2.jpg) no-repeat;
 }
 
 .main_visual .swiper-wrapper .swiper-slide:nth-child(3) {
-  background: url(../img/banner3.jpg);
+  background: url(../img/banner3.jpg) no-repeat;
 }
 
 .main_visual .swiper-wrapper .swiper-slide a {

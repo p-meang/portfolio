@@ -43,15 +43,15 @@
   /* banner */
   .main_visual .swiper-wrapper .swiper-slide {
     height: calc(100vh - 160px);
-    background: url(../img/banner_ta.jpg);
+    background: url(../img/banner_ta.jpg) no-repeat;
   }
 
   .main_visual .swiper-wrapper .swiper-slide:nth-child(2) {
-    background: url(../img/banner2_ta.jpg);
+    background: url(../img/banner2_ta.jpg) no-repeat;
   }
 
   .main_visual .swiper-wrapper .swiper-slide:nth-child(3) {
-    background: url(../img/banner3_ta.jpg);
+    background: url(../img/banner3_ta.jpg) no-repeat;
   }
 
   /* section concept */
@@ -338,15 +338,15 @@
   /* banner */
   .main_visual .swiper-wrapper .swiper-slide {
     height: calc(100vh - 100px);
-    background: url(../img/banner_mo.jpg);
+    background: url(../img/banner_mo.jpg) no-repeat;
   }
 
   .main_visual .swiper-wrapper .swiper-slide:nth-child(2) {
-    background: url(../img/banner2_mo.jpg);
+    background: url(../img/banner2_mo.jpg) no-repeat;
   }
 
   .main_visual .swiper-wrapper .swiper-slide:nth-child(3) {
-    background: url(../img/banner3_mo.jpg);
+    background: url(../img/banner3_mo.jpg) no-repeat;
   }
 
   /* section concept */
