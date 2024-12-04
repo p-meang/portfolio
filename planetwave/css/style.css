@@ -194,6 +194,8 @@ ul#menu li:nth-child(4).on a {
 
 #wrap section video {
   position: fixed;
+  left: 0;
+  top: 0;
 }
 
 #wrap section article h2 {
